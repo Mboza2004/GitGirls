@@ -28,14 +28,14 @@ h2 {
   font-size: 2rem;
 }
 
-.celebrities .btn {
+.btn {
   background-color: #8ce8d3;
   border: none;
   color: black;
 
 }
 
-.celebrities .btn:hover {
+.btn:hover {
   background-color: plum;
 }
  img {
