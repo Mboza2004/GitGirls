@@ -27,3 +27,14 @@ h2 {
   font-family: 'Permanent Marker', cursive;
   font-size: 2rem;
 }
+
+.celebrities .btn {
+  background-color: #8ce8d3;
+  border: none;
+  color: black;
+
+}
+
+.celebrities .btn:hover {
+  background-color: plum;
+}
